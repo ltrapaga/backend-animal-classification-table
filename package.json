@@ -1,0 +1,23 @@
+{
+  "name": "basic-backend-table",
+  "version": "1.0.0",
+  "description": "Back end application that performs basic CRUD ops for animals",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ltrapaga/basic-backend-table.git"
+  },
+  "author": "Laura Trapaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ltrapaga/basic-backend-table/issues"
+  },
+  "homepage": "https://github.com/ltrapaga/basic-backend-table#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
